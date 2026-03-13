@@ -71,8 +71,8 @@ sudo iptables -t nat -A PREROUTING -p tcp --dport 21 -j REDIRECT --to-port 2121
 
 ---
 
-![Demo](images/demo1.png)
-![Demo](images/demo2.png)
+![Demo](demo1.png)
+![Demo](demo2.png)
 
 ## Dashboard Panels
 
