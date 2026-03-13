@@ -71,6 +71,9 @@ sudo iptables -t nat -A PREROUTING -p tcp --dport 21 -j REDIRECT --to-port 2121
 
 ---
 
+![Demo](images/demo1.png)
+![Demo](images/demo2.png)
+
 ## Dashboard Panels
 
 - **Live Attack Feed** — Real-time stream of all connection attempts
